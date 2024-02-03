@@ -17,9 +17,7 @@ body{
     align-items: center;
     height: 100vh;
     background-image: url("pictures/deb.jpg");
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+    background-size: 150px;
 }
 
 #Calcula-Turtur{
@@ -29,8 +27,6 @@ body{
     border-radius: 15px;
     max-width: 500px;
     overflow: hidden;
-    background-position: center;
-    background-repeat: no-repeat;
 }
 
 #display{
